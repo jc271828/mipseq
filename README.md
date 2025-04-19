@@ -1,1 +1,1 @@
-# Documented in silico Molecular Inversion Probe (MIP) design process for a population genomics study in Tess Leuthner et al., 2025 (in preparation). These designed MIPs were constructed and validated and proved to work well in experiments.
+# Documented in silico Molecular Inversion Probe (MIP) design process for a population genomics study in Leuthner et al., 2025 (in preparation). These designed MIPs were constructed and validated and proved to work well in experiments.
